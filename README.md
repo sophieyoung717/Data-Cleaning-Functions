@@ -9,8 +9,8 @@ Developed prototypes of data guide and data cleaning algorithms
 # Requirement to run:
 - Node.js
 - node modules:
--- lodash
--- node-bayes
--- json-schema-validation
--- string-similarity
+ - lodash
+ - node-bayes
+ - json-schema-validation
+ - string-similarity
 
