@@ -1,0 +1,42 @@
+[
+    {
+        "id": "pid089",
+        "rate": 1,
+        "num_rate": 299
+    },
+    {
+        "id": "pid023",
+        "rate": 4,
+        "num_rate": 133
+    },
+    {
+        "id": "pid317",
+        "rate": 2,
+        "num_rate": 85
+    },
+    {
+        "id": "pid242",
+        "rate": 0,
+        "num_rate": 267
+    },
+    {
+        "id": "pid544",
+        "rate": 0,
+        "num_rate": 142
+    },
+    {
+        "id": "pid630",
+        "rate": 4,
+        "num_rate": 278
+    },
+    {
+        "id": "pid460",
+        "rate": 0,
+        "num_rate": 285
+    },
+    {
+        "id": "pid831",
+        "rate": 3,
+        "num_rate": 19
+    }
+]

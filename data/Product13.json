@@ -1,0 +1,137 @@
+[
+    {
+        "id": "pid572",
+        "name": "fugiat laboris sed",
+        "brand": "Apple",
+        "category": "phone",
+        "price": 2131,
+        "amount": 40,
+        "discount": 5
+    },
+    {
+        "id": "pid946",
+        "name": "adipisicing qui ut in",
+        "brand": "Samsung",
+        "category": "TV",
+        "price": 500,
+        "amount": null,
+        "discount": null
+    },
+    {
+        "id": "pid395",
+        "name": "offic",
+        "brand": "Sony",
+        "category": "laptop",
+        "price": 1417,
+        "amount": 30,
+        "discount": null
+    },
+    {
+        "id": "pid774",
+        "name": "i",
+        "brand": "Samsung",
+        "category": null,
+        "price": 700,
+        "amount": 85,
+        "discount": 2
+    },
+    {
+        "id": "pid915",
+        "name": "tempor non mollit laborum",
+        "brand": "Sony",
+        "category": "laptop",
+        "price": 2813,
+        "amount": 0,
+        "discount": 5
+    },
+    {
+        "id": "pid897",
+        "name": "in",
+        "brand": "Samsung",
+        "category": "phone",
+        "price": 1155,
+        "amount": 69,
+        "discount": 4
+    },
+    {
+        "id": "pid117",
+        "name": "id",
+        "brand": "Apple",
+        "category": "TV",
+        "price": 2692,
+        "amount": 70,
+        "discount": 6
+    },
+    {
+        "id": "pid879",
+        "name": "anim sint fugiat",
+        "brand": "Apple",
+        "category": "TV",
+        "price": 490,
+        "amount": 92,
+        "discount": 5
+    },
+    {
+        "id": "pid778",
+        "name": "dolor ipsum labore",
+        "brand": "Apple",
+        "category": "laptop",
+        "price": null,
+        "amount": null,
+        "discount": null
+    },
+    {
+        "id": "pid169",
+        "name": "Ut tempor ipsum",
+        "brand": "Samsung",
+        "category": "TV",
+        "price": 2919,
+        "amount": 92,
+        "discount": 2
+    },
+    {
+        "id": "pid501",
+        "name": "ex aliquip",
+        "brand": "Samsung",
+        "category": "TV",
+        "price": 624,
+        "amount": 82,
+        "discount": 0
+    },
+    {
+        "id": "pid459",
+        "name": "dolore",
+        "brand": "Sony",
+        "category": "TV",
+        "price": 2677,
+        "amount": 19,
+        "discount": null
+    },
+    {
+        "id": "pid528",
+        "name": "exercitation Ut",
+        "brand": "Sony",
+        "category": "laptop",
+        "price": 1466,
+        "amount": 48,
+        "discount": 5
+    },
+    {
+        "id": "pid413",
+        "name": "ut laboris commodo",
+        "brand": "Samsung",
+        "category": "TV",
+        "price": 483,
+        "amount": 74,
+        "discount": 2
+    },
+    {
+        "id": "pid488",
+        "name": "mollit",
+        "brand": "Sony",
+        "category": "laptop",
+        "price": 2989,
+        "amount": 35,
+        "discount": 1
+    }
+]
